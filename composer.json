@@ -62,5 +62,9 @@
         "email": "imposter-plugin@typist.tech",
         "issues": "https://github.com/TypistTech/imposter-plugin/issues",
         "source": "https://github.com/TypistTech/imposter-plugin"
-    }
+    },
+    "repositories": [{
+        "type": "vcs",
+        "url": "git@github.com:prestamodule/imposter.git"
+    }]
 }
